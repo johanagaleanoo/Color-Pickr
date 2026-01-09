@@ -13,3 +13,7 @@ Tecnologías utilizadas:
 - HTML5
 - CSS
 - Bootstrap
+
+Desktop:
+<img width="1280" height="557" alt="desktop 1" src="https://github.com/user-attachments/assets/ad0f3562-73c7-41af-90c0-013634a63200" />
+<img width="1280" height="400" alt="desktop 2" src="https://github.com/user-attachments/assets/7e270dc5-0679-44d5-ad09-0f25c45a0d52" />
