@@ -20,4 +20,4 @@ Vista Desktop:
 
 Vista Mobile:
 <img width="1109" height="1280" alt="movil 1" src="https://github.com/user-attachments/assets/480e6389-5888-4a3e-9f0b-7bce16b19804"/>
-<img width="1035" height="1280" alt="movil 2" src="https://github.com/user-attachments/assets/1d374a93-5d22-466f-8eae-ad7c3ff90d8a"/>
+<img width="1035" height="1240" alt="movil 2" src="https://github.com/user-attachments/assets/473dbe0f-ff7f-4db9-923e-39b1ce23ac77"/>
